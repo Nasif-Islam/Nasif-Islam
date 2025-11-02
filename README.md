@@ -45,9 +45,6 @@ Aspiring **Cloud, DevOps, and Data Engineering** professional passionate about b
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <!--
 **Nasif-Islam/Nasif-Islam** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
