@@ -1,4 +1,4 @@
-## # Hi, I'm Nasif
+## Hi, I'm Nasif
 Aspiring Cloud, DevOps, and Data Engineering professional.
 
 - Learning and building projects in **AWS, Terraform, Python, and DevOps**.
