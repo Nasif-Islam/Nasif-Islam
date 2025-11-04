@@ -6,7 +6,7 @@ Aspiring **Cloud, DevOps, and Data Engineering** professional passionate about b
 🚀 Seeking **entry-level opportunities** in Cloud, DevOps, and Data Engineering
 
 ### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasiful-i-106287336/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nasiful-i-106287336/](https://www.linkedin.com/in/nasiful-islam/))
 
 ---
 
