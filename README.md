@@ -35,7 +35,7 @@ Aspiring **Software Engineer** with a strong foundation in full-stack developmen
 | Project | Description | Repository |
 |---------|-------------|------------|
 | **Crypto ETL Pipeline** | A Python data-engineering project that extracts crypto data from APIs, transforms it with pandas, and visualises it through a Streamlit dashboard | [View Repo](https://github.com/Nasif-Islam/crypto-etl) |
-| **Prayer Times App ** | Full-stack DevOps project displaying real-time Islamic prayer times. Built with Flask (Python) and React, containerized with Docker, and deployed via Terraform on AWS EC2 | [View Repo](https://github.com/Nasif-Islam/prayer-times-app) |
+| **Prayer Times App** | Full-stack DevOps project displaying real-time Islamic prayer times. Built with Flask (Python) and React, containerized with Docker, and deployed via Terraform on AWS EC2 | [View Repo](https://github.com/Nasif-Islam/prayer-times-app) |
 | **Terraform AWS EC2 Deployment** | Deployed an Ubuntu EC2 instance using Terraform and AWS. Learned Infrastructure-as-Code, security groups, and SSH access | [View Repo](https://github.com/Nasif-Islam/terraform-aws-ec2-demo) |
 | **Server Stats** | Python project that monitors server performance and resource usage in real-time, logging CPU, memory, and disk stats | [View Repo](https://github.com/Nasif-Islam/server-stats) |
 | **WeatherApp** | Python CLI app fetching real-time weather info for any city using OpenWeatherMap API. Features temperature, humidity, wind speed, and optional debug mode | [View Repo](https://github.com/Nasif-Islam/WeatherApp) |
