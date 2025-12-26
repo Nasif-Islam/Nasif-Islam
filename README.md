@@ -1,8 +1,12 @@
 ## 👋 Hi, I'm Nasif
+
+Portfolio: https://nasif-islam.github.io  
 Aspiring **Software Engineer** with a strong foundation in full-stack development, cloud architecture, DevOps practices, and data engineering. Passionate about building scalable systems, automating workflows, and delivering clean, reliable, end-to-end solutions.
-👨🏻‍💻 👨Building full-stack and backend projects with **Python**, **JavaScript/React**, **AWS**, **Terraform** and DevOps tools
+
+👨🏻‍💻 Building full-stack and backend projects with **Python**, **JavaScript/React**, **AWS**, **Terraform** and DevOps tools
 ☁️ Passionate about cloud architecture, automation, API-driven systems and data engineering pipelines
 🔧 Focused on writing clean, scalable code and designing robust end-to-end engineering solutions
+
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasiful-islam/)
