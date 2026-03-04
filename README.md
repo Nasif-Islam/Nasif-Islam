@@ -35,7 +35,6 @@
 ---
 
 ## 📊 Stats:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nasif-Islam&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-readme-stats.vercel.app/api?username=Nasif-Islam&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nasif-Islam&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasif-Islam&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
