@@ -1,14 +1,16 @@
 ## 👋 Hi, I'm Nasif
 
-Aspiring **Software Engineer** with a strong foundation in full-stack development, cloud architecture, DevOps practices, and data engineering. Passionate about building scalable systems, automating workflows, and delivering clean, reliable, end-to-end solutions.
+**Full-Stack Software Engineer** with a strong foundation in cloud architecture, DevOps practices, and data engineering.
+
 
 👨🏻‍💻 Building full-stack and backend projects with **Python**, **JavaScript/React**, **AWS**, **Terraform** and DevOps tools
 ☁️ Passionate about cloud architecture, automation, API-driven systems and data engineering pipelines
 🔧 Focused on writing clean, scalable code and designing robust end-to-end engineering solutions
-
+📚 Exploring: **Machine Learning & AI frameworks** · **Mobile development** (Swift · Kotlin · React Native) · **Systems programming** (Rust · C++)  
 
 ### 🌐 Links
-Portfolio: https://nasif-islam.github.io  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=github&logoColor=white)](https://nasif-islam.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasiful-islam/)
 
 ---
@@ -16,9 +18,12 @@ Portfolio: https://nasif-islam.github.io
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -29,22 +34,12 @@ Portfolio: https://nasif-islam.github.io
 
 ---
 
-## 🚀 Projects
-
-| Project | Description | Repository |
-|---------|-------------|------------|
-| **Crypto ETL Pipeline** | A Python data-engineering project that extracts crypto data from APIs, transforms it with pandas, and visualises it through a Streamlit dashboard | [View Repo](https://github.com/Nasif-Islam/crypto-etl) |
-| **Prayer Times App** | Full-stack DevOps project displaying real-time Islamic prayer times. Built with Flask (Python) and React, containerized with Docker, and deployed via Terraform on AWS EC2 | [View Repo](https://github.com/Nasif-Islam/prayer-times-app) |
-| **Terraform AWS EC2 Deployment** | Deployed an Ubuntu EC2 instance using Terraform and AWS. Learned Infrastructure-as-Code, security groups, and SSH access | [View Repo](https://github.com/Nasif-Islam/terraform-aws-ec2-demo) |
-| **Server Stats** | Python project that monitors server performance and resource usage in real-time, logging CPU, memory, and disk stats | [View Repo](https://github.com/Nasif-Islam/server-stats) |
-| **WeatherApp** | Python CLI app fetching real-time weather info for any city using OpenWeatherMap API. Features temperature, humidity, wind speed, and optional debug mode | [View Repo](https://github.com/Nasif-Islam/WeatherApp) |
-
----
-
-## 📊 GitHub Stats:
+## 📊 Stats:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nasif-Islam&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-readme-stats.vercel.app/api?username=Nasif-Islam&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nasif-Islam&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasif-Islam&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ---
 
