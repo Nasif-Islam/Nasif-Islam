@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Nasif
 
-**Full-Stack Software Engineer** with a strong foundation in cloud architecture, DevOps practices, and data engineering.
+**Full-Stack Software Engineer at Capgemini**
 
 
 👨🏻‍💻 Building full-stack and backend projects with **Python**, **JavaScript/React**, **AWS**, **Terraform** and DevOps tools
